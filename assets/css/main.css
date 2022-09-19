@@ -336,7 +336,7 @@
 		}
 
 		.row > .col-6 {
-			width: 50%;
+			width: 50%
 		}
 
 		.row > .off-6 {
@@ -2057,6 +2057,7 @@
 
 		header.major p {
 			display: inline-block;
+			font-size:1em;
 			border-top: solid 2px #e5e5e5;
 			color: #777;
 			margin: 0.5em 0 0 0;
@@ -2284,7 +2285,7 @@
 
 			.box.features .features-row section {
 				float: left;
-				padding: 3em;
+				padding: 2em;
 				width: 50%;
 			}
 
